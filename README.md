@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2 align="center">
+  Hello there <img src="https://cdn.betterttv.net/emote/5c0e1a3c6c146e7be4ff5c0c/2x" width="32">
+</h2>
+<p align="center">
+  <i>I present you lots of physicist code here...</i>
+</p>
 
-<!--
-**masterdesky/masterdesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Some cool plots I've made</h2>
+<div align="center">
+  <img src="img/viz.png" alt="missing image of nice viz"></img>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Also some GitHub stats</h2>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=masterdesky&hide_border=true&count_private=true&show_icons=true&theme=dracula" height="180em" align="center" alt="masterdesky"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=masterdesky&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dracula" height="180em" align="center" alt="masterdesky"/></p>
