@@ -12,6 +12,8 @@
 
 <h2>Also here's some GitHub stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masterdesky&hide_border=true&count_private=true&show_icons=true&theme=dracula" height="180em" align="center" style="pointer-events: none; cursor: default;" alt="masterdesky"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masterdesky&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dracula" height="180em" align="center" style="pointer-events: none; cursor: default;" alt="masterdesky"/>
+  <a style="pointer-events: none; cursor: default;" href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=masterdesky&hide_border=true&count_private=true&show_icons=true&theme=dracula" height="180em" align="center" alt="masterdesky"/></a>
+  <a style="pointer-events: none; cursor: default;" href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masterdesky&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dracula" height="180em" align="center" alt="masterdesky"/></a>
 </p>
